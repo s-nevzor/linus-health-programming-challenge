@@ -45,7 +45,7 @@ console.log('test four: ', anagramCount('The iceman did icenam not enjoy the cak
 
 console.log('test five: ', anagramCount('The IceMAN did not enjoy the cake', 'cineMA')); // output: 1
 
-console.log('test six: ', anagramCount('', 'cinema')); // Expected output: 0
+console.log('test six: ', anagramCount('', 'cinema')); // output: 0
 
 console.log('test seven: ', anagramCount('The iceman did not enjoy the cake', '')); // output: 0
 
